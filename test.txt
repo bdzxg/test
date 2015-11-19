@@ -2,3 +2,4 @@ hello world!
 git has a mutable index called stage
 git track changes
 git is a distributed version control system.
+git s a free software
